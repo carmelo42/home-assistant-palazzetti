@@ -22,6 +22,7 @@ Definitive Palazzetti SmartStoves integration for Home Assistant
 
 **This component will set up the following platforms.**
 
+**TEST**
 | Platform        | Description                                                               |
 | --------------- | ------------------------------------------------------------------------- |
 | `binary_sensor` | To show the state of the CBox or BioCC: `Connected` or `Disconnected`.    |
